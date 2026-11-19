@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://akd.ir/sitemap.xml
